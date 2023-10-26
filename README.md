@@ -1,7 +1,3 @@
-Absolutely! Adding emojis and formatting can make your GitHub project description more engaging. Below is your updated description:
-
----
-
 # 📊 Exploratory Data Analysis (EDA) on Loan Application Data 📊
 
 ## 🌟 Introduction
