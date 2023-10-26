@@ -33,4 +33,4 @@ Python
 Pandas for data manipulation
 Matplotlib and Seaborn for data visualization
 Conclusion:
-The EDA provided valuable insights into the data, revealing relationships between different features and the default rate. These insights are critical for any subsequent predictive modeling and for making informed decisions in the loan approval process.
+The EDA provided valuable insights into the data, revealing relationships between different features and the default rate. These insights are critical for any subsequent predictive modeling and for making informed decisions in the loan approval process.tive modeling and for making informed decisions in the loan approval process.
