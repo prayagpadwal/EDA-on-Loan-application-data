@@ -1,5 +1,3 @@
-# Exploratory-Data-Analysis-EDA-
-
 # Exploratory Data Analysis (EDA) on Loan Application Data
 
 Introduction
