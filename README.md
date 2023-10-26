@@ -36,7 +36,3 @@ Loaded the dataset into a Python environment and kicked off with some initial ex
 
 ## 🎯 Conclusion:
 Our EDA journey offered invaluable insights into the dataset, revealing intriguing relationships between different features and the default rate. These insights are pivotal for any subsequent predictive modeling and for making data-driven decisions in the loan approval process. 📈🎉
-
----
-
-Feel free to copy and paste this into your GitHub repository's README file!
